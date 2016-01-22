@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I love to work in Team . I have a positive attitude for any circumstances and  accept challenges of both profession and life. I like to be updated in my field and as well as good knowledge of other fields.I found the passion that gives sense to work in this field. My main interest is to Create and Design quality software
