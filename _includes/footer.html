@@ -1,0 +1,58 @@
+<ul class="icons">
+
+    {% if site.footer-links.github %}
+    <li>
+        <a href="https://github.com/{{ site.github_username }}" class="icon fa-github">
+            <span class="label">GitHub</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.twitter %}
+    <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter">
+            <span class="label">Twitter</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.linkedin %}
+    <li>
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="icon fa-linkedin">
+            <span class="label">LinkedIn</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.googleplus %}
+    <li>
+        <a href="https://plus.google.com/{{ site.google_plus_username }}" class="icon fa-google-plus">
+            <span class="label">Google+</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.facebook %}
+    <li>
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" class="icon fa-facebook">
+            <span class="label">Facebook</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.dribbble %}
+    <li>
+        <a href="#" class="icon fa-dribbble">
+            <span class="label">Dribbble</span>
+        </a>
+    </li>
+    {% endif %}
+
+    {% if site.footer-links.email %}
+    <li>
+        <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+            <span class="label">Email</span>
+        </a>
+    </li>
+    {% endif %}
+</ul>

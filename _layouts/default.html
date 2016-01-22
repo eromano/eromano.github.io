@@ -1,51 +1,61 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
-
+    <!--[if lte IE 8]>
+    <script src="/css/ie/html5shiv.js"></script><![endif]-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.poptrox.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="/css/skel.css"/>
+        <link rel="stylesheet" href="/css/style.css"/>
+        <link rel="stylesheet" href="/css/style-xlarge.css"/>
+    </noscript>
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="/css/ie/v8.css"/><![endif]-->
     <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+          href="{{ site.baseurl }}/feed.xml"/>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+</head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+<body>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
+<header id="header">
+    <div class="navigation">
+        <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
+        </nav>
+    </div>
+    <div>
+        <a href="#" class="image avatar"><img src="{{ site.avatar }}" alt="Eugenio Romano underwater"/></a>
+
+        <h1><strong>I am <a href="/">{{ site.name }}</a></strong><br/>
+            Java/Javascript Clean coder<br/>
+            I am full stack developer in Alfresco<br/></h1>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+</header>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+{{ content }}
 
-    {% include analytics.html %}
-  </body>
+<!-- Footer -->
+<footer id="footer">
+
+    {% include footer.html %}
+
+</footer>
+
+{% include analytics.html %}
+</body>
+
 </html>
