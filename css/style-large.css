@@ -42,3 +42,9 @@
 		padding: 6em 3em 3em 3em;
 		width: calc(100% - 30%);
 	}
+
+.medescription{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}

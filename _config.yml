@@ -73,6 +73,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-mentions
+  - jekyll-redirect-from
   - jemoji
 
 # Exclude these files from your production _site
@@ -82,3 +83,29 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+# Multilingual support
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      layout: default
+  -
+    scope:
+      path: _posts/it
+    values:
+      lang: it
+  -
+    scope:
+      path: _posts/it/pages
+    values:
+      type: pages
+      desc: "Il mio Blog personale su Java/Javascript"
+  -
+    scope:
+      path: _posts/en/pages
+    values:
+      type: pages
+      desc: "Personnal website mostly about programming Java/Javascript"

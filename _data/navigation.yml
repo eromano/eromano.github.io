@@ -1,0 +1,15 @@
+
+en:
+  blog:
+    title: "Blog"
+    url:   "/index.html"
+  about:
+    title: "About"
+    url:   "/about/"
+it:
+  blog:
+    title: "Blog"
+    url:   "/index.html"
+  about:
+    title: "Chi sono"
+    url:   "/about/"

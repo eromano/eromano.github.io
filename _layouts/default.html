@@ -23,20 +23,59 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
+    <link rel="stylesheet" href="/css/languageswitch.css"/>
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 </head>
 
 <body>
 
 <header id="header">
     <div class="navigation">
-        <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+        <nav class="nav">
+            <ul>
+                {% for menu in site.data.navigation[page.lang] %}
+                <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
+                {% endfor %}
+
+
+<!--                <li class="lang">
+                    {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
+                    {% for post in posts %}
+                    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                    {% endfor %}
+                </li>-->
+            </ul>
+
+            <div class="flag-switch" data-first-lang="EN" data-second-lang="IT">
+                <input type="checkbox" id="check1" checked>
+                <label for="check1"></label>
+            </div>
+            <script>
+                (function () {
+                    var linkIta = '{{posts[0].url}}',
+                     linkEng = '{{posts[1].url}}',
+                     origin = $(location)[0].origin,
+                     currentLang = '{{page.lang}}';
+
+                    if(currentLang === 'en'){
+                        $('#check1').prop('checked', true);
+                    }else{
+                        $('#check1').prop('checked', false);
+                    }
+
+                    $('.flag-switch').change(function () {
+                        if ($('#check1').is(':checked')) {
+                            $(location).attr('href', origin + linkIta);
+                        } else {
+                            $(location).attr('href', origin + linkEng);
+                        }
+                    });
+
+                })();
+            </script>
         </nav>
     </div>
-    <div>
+    <div class="medescription">
         <a href="#" class="image avatar"><img src="{{ site.avatar }}" alt="Eugenio Romano underwater"/></a>
 
         <h1><strong>I am <a href="/">{{ site.name }}</a></strong><br/>
