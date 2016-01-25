@@ -41,7 +41,7 @@ ul.labeled-icons li h3 {
 /* Header */
 
 #header {
-    padding: 2.25em 1.5em;
+    padding: 5.25em 1.5em;
 }
 
 #header h1 {
@@ -79,5 +79,6 @@ ul.labeled-icons li h3 {
 
 .medescription {
     transform: none;
+    top: 56px;
 }
 
