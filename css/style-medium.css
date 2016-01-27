@@ -84,3 +84,6 @@ ul.icons li .icon {
     transform: none;
 }
 
+.github-fork-ribbon--container {
+    display: none;
+}

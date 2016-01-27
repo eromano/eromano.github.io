@@ -82,3 +82,6 @@ ul.labeled-icons li h3 {
     top: 56px;
 }
 
+.github-fork-ribbon--container {
+    display: none;
+}

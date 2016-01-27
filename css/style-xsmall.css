@@ -63,3 +63,7 @@
 	transform: none;
 	top: 56px;
 }
+
+.github-fork-ribbon--container {
+	display: none;
+}
