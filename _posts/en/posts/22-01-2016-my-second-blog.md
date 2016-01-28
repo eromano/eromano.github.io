@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: My first blog
+title: My second blog
 ---
 
 cool!

@@ -36,20 +36,13 @@
                 {% for menu in site.data.navigation[page.lang] %}
                 <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
                 {% endfor %}
-
-
-<!--                <li class="lang">
-                    {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
-                    {% for post in posts %}
-                    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-                    {% endfor %}
-                </li>-->
             </ul>
 
             <div class="flag-switch" data-first-lang="EN" data-second-lang="IT">
                 <input type="checkbox" id="check1" checked>
                 <label for="check1"></label>
             </div>
+            {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
             <script>
                 (function () {
                     var linkIta = '{{posts[0].url}}',

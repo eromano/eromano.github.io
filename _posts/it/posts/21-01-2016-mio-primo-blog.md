@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: My first blog
+title: il mio primo blog
 ---
 
 cool!

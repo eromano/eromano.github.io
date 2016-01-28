@@ -9,7 +9,7 @@ en:
 it:
   blog:
     title: "Blog"
-    url:   "/index.html"
+    url:   "/index/"
   about:
     title: "Chi sono"
-    url:   "/about/"
+    url:   "/chi-sono/"
