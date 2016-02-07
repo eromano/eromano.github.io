@@ -8,4 +8,4 @@ Some information about me
 
 ### More Information
 
-I love to work in Team . I have a positive attitude for any circumstances and  accept challenges of both profession and life. I like to be updated in my field and as well as good knowledge of other fields.I found the passion that gives sense to work in this field. My main interest is to Create and Design quality software
+With a positive attitude for any circumstances, I thrive on challenges in both my professional and social life. I like to keep up to date in my field and to maintain a good knowledge of other fields. I found that my passion for programming extends to studying it in my spare time. I work very well in a team and my main interest is to Create and Design quality software. 
