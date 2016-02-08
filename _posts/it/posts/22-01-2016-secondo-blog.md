@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: it
 comments: true
 title: Secondo blog
 ---
