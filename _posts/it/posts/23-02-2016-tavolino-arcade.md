@@ -13,10 +13,10 @@ Sono sceso nella mia Bat Caverna, ho aperto il mio pc ed ho iniziato a realizzar
     <h2>Progettazione 3D tavolino</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/3d-project-arcade-table1.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table1.jpg " alt="table arcade 3d project 1" /></a>
+            <a href="/images/table-arcade/3d-project-arcade-table1.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table1.jpg" alt="table arcade 3d project 1" /></a>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/3d-project-arcade-table2.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table2.jpg" alt="" /></a>
+            <a href="/images/table-arcade/3d-project-arcade-table2.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table2.jpg"  alt="table arcade 3d project 2" /></a>
         </article>
     </div>
 </div>
@@ -28,10 +28,10 @@ Una volta scelto il legno e dopo aver discusso sui punti da rivedere del progett
     <h2>Realizzazione tavolino</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img  src="/images/table-arcade/table-arcade-wood.jpg " alt="table arcade realizzazione" /></a>
+            <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img  src="/images/table-arcade/table-arcade-wood.jpg" alt="table arcade realizzazione" /></a>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-wood-1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood-1.jpg" alt=""table arcade realizzazione 2" /></a>
+            <a href="/images/table-arcade/table-arcade-wood-1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood-1.jpg" alt="table arcade realizzazione 2" /></a>
         </article>
     </div>
 </div>
