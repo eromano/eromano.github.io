@@ -28,10 +28,10 @@ Una volta scelto il legno e dopo aver discusso sui punti da rivedere del progett
     <h2>Realizzazione tavolino</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood.jpg " alt="table arcade realizzazione" /></a>
+            <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img  src="/images/table-arcade/table-arcade-wood.jpg " alt="table arcade realizzazione" /></a>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-wood1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood1.jpg" alt=""table arcade realizzazione 2" /></a>
+            <a href="/images/table-arcade/table-arcade-wood-1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood-1.jpg" alt=""table arcade realizzazione 2" /></a>
         </article>
     </div>
 </div>
