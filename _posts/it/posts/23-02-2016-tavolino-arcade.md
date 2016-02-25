@@ -47,7 +47,7 @@ A questo punto bisognava decidere come disporre i tasti sulla console e con mia 
     <h2>Schema configurazione</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/button-arcade-configuration.png" class="image fit thumb"><img src=src="/images/table-arcade/button-arcade-configuration.png" alt="foto configurazione bottoni" /></a>
+            <a href="/images/table-arcade/button-arcade-configuration.png" class="image fit thumb"><img src="/images/table-arcade/button-arcade-configuration.png" alt="foto configurazione bottoni" /></a>
             <p>Table arcade realizzazione 1</p>
         </article>
     </div>
@@ -59,7 +59,7 @@ Quindi abbiamo preso un trapano con punta fresatrice e abbiamo fatto questi bei 
     <h2>Realizzazione buchi</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-buttons-hole.jpg" class="image fit thumb"><img src=src="/images/table-arcade/table-arcade-buttons-hole.jpg" alt="table arcade realizzazione buchi bottoni" /></a>
+            <a href="/images/table-arcade/table-arcade-buttons-hole.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole.jpg" alt="table arcade realizzazione buchi bottoni" /></a>
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
@@ -75,7 +75,7 @@ Dopo aver realizzato la console però bisognava  creare un meccanismo che la las
     <h2>Meccanismo console</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-find-mechanism.jpg" class="image fit thumb"><img src=src="/images/table-arcade/table-arcade-find-mechanism.jpg" alt="ricerca meccanismo" /></a>
+            <a href="/images/table-arcade/table-arcade-find-mechanism.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-find-mechanism.jpg" alt="ricerca meccanismo" /></a>
             <p>Ricerca Meccanismo</p>
         </article>
     </div>
@@ -88,7 +88,7 @@ Il montaggio del tutto non ha richiesto molto tempo:
     <h2>Configurazione Joypad</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/joypad-mount1.jpg" class="image fit thumb"><img src=src="/images/table-arcade/joypad-mount1.jpg" alt="configurazione joypad" /></a>
+            <a href="/images/table-arcade/joypad-mount1.jpg" class="image fit thumb"><img src="/images/table-arcade/joypad-mount1.jpg" alt="configurazione joypad" /></a>
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
@@ -104,7 +104,7 @@ Per la configurazione dell’arcade su raspberry ho optato per l’installazione
     <h2>Tavolino finito</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-end1.jpg" class="image fit thumb"><img src=src="/images/table-arcade/table-arcade-end1.jpg" alt="arcade table end 1"/></a>
+            <a href="/images/table-arcade/table-arcade-end1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end1.jpg" alt="arcade table end 1"/></a>
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
@@ -121,7 +121,7 @@ Che dire..spero che vi sia stato di aiuto, e se avete qualche dubbio o avete bis
     <h2>Tavolino in  azione</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/table-arcade-in-action.jpg" class="image fit thumb"><img src=src="/images/table-arcade/table-arcade-in-action.jpg" alt="tavolino in azione" /></a>
+            <a href="/images/table-arcade/table-arcade-in-action.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action.jpg" alt="tavolino in azione" /></a>
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
