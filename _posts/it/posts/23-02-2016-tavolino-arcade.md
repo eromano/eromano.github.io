@@ -14,11 +14,9 @@ Sono sceso nella mia Bat Caverna, ho aperto il mio pc ed ho iniziato a realizzar
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/3d-project-arcade-table1.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table1.jpg " alt="table arcade 3d project 1" /></a>
-            <p>Primo disegno cocktail table arcade</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
             <a href="/images/table-arcade/3d-project-arcade-table2.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table2.jpg" alt="" /></a>
-            <p>Primo disegno cocktail table arcade 2</p>
         </article>
     </div>
 </div>
@@ -31,11 +29,9 @@ Una volta scelto il legno e dopo aver discusso sui punti da rivedere del progett
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood.jpg " alt="table arcade realizzazione" /></a>
-            <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-wood1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood1.jpg" alt=""table arcade realizzazione 2" /></a>
-            <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
 </div>
@@ -48,7 +44,6 @@ A questo punto bisognava decidere come disporre i tasti sulla console e con mia 
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/button-arcade-configuration.png" class="image fit thumb"><img src="/images/table-arcade/button-arcade-configuration.png" alt="foto configurazione bottoni" /></a>
-            <p>Table arcade realizzazione 1</p>
         </article>
     </div>
 </div>
@@ -60,11 +55,9 @@ Quindi abbiamo preso un trapano con punta fresatrice e abbiamo fatto questi bei 
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-buttons-hole.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole.jpg" alt="table arcade realizzazione buchi bottoni" /></a>
-            <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-buttons-hole2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole2.jpg"  alt="table arcade realizzazione buchi bottoni 2" /></a>
-            <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
 </div>
@@ -76,7 +69,6 @@ Dopo aver realizzato la console però bisognava  creare un meccanismo che la las
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-find-mechanism.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-find-mechanism.jpg" alt="ricerca meccanismo" /></a>
-            <p>Ricerca Meccanismo</p>
         </article>
     </div>
 </div>
@@ -88,12 +80,10 @@ Il montaggio del tutto non ha richiesto molto tempo:
     <h2>Configurazione Joypad</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/joypad-mount1.jpg" class="image fit thumb"><img src="/images/table-arcade/joypad-mount1.jpg" alt="configurazione joypad" /></a>
-            <p>Table arcade realizzazione 1</p>
+            <a href="/images/table-arcade/Joypad-mount1.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount1.jpg" alt="configurazione joypad" /></a>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/joypad-mount2.jpg" class="image fit thumb"><img src="/images/table-arcade/joypad-mount2.jpg"  alt="configurazione joypad2" /></a>
-            <p>>Table arcade realizzazione 2</p>
+            <a href="/images/table-arcade/Joypad-mount2.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount2.jpg"  alt="configurazione joypad2" /></a>
         </article>
     </div>
 </div>
@@ -105,11 +95,9 @@ Per la configurazione dell’arcade su raspberry ho optato per l’installazione
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-end1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end1.jpg" alt="arcade table end 1"/></a>
-            <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-end2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end2.jpg"  alt="arcade table end 2" /></a>
-            <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
 </div>
@@ -122,11 +110,9 @@ Che dire..spero che vi sia stato di aiuto, e se avete qualche dubbio o avete bis
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-in-action.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action.jpg" alt="tavolino in azione" /></a>
-            <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-in-action2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action2.jpg" alt="tavolino in azione 2" /></a>
-            <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
 </div>
