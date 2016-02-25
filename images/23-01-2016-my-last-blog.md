@@ -1,12 +1,36 @@
 ---
 layout: post
-lang: it
 comments: true
-title: il mio primo blog
+title: Last blog
 ---
 
 cool!
 
+<div id="gallery">
+    <h2>Recent Work</h2>
+    <div class="row">
+        <article class="6u 12u$(xsmall) work-item">
+            <a href="/images/1.jpg" class="image fit thumb"><img src="/images/1.jpg" alt="" /></a>
+            <h3>Tortor metus commodo</h3>
+            <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+        </article>
+        <article class="6u$ 12u$(xsmall) work-item">
+            <a href="/images/1.jpg" class="image fit thumb"><img src="/images/1.jpg" alt="" /></a>
+            <h3>Quam neque phasellus</h3>
+            <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+        </article>
+        <article class="6u 12u$(xsmall) work-item">
+            <a href="/images/1.jpg" class="image fit thumb"><img src="/images/1.jpg" alt="" /></a>
+            <h3>Nunc enim commodo aliquet</h3>
+            <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+        </article>
+        <article class="6u$ 12u$(xsmall) work-item">
+            <a href="/images/1.jpg" class="image fit thumb"><img src="/images/1.jpg" alt="" /></a>
+            <h3>Risus ornare lacinia</h3>
+            <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+        </article>
+    </div>
+</div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus fringilla dui. Donec laoreet maximus elit. Mauris ullamcorper condimentum lobortis. Donec maximus, mi vitae iaculis placerat, ligula mi maximus lectus, ac varius mi nulla id neque. Quisque porta eros nisi, eu fringilla urna dictum vitae.
 
