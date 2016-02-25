@@ -80,10 +80,10 @@ Il montaggio del tutto non ha richiesto molto tempo:
     <h2>Configurazione Joypad</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/Joypad-mount1.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount1.jpg" alt="configurazione joypad" /></a>
+            <a href="/images/table-arcade/Joypad-mount-1.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount-1.jpg" alt="configurazione joypad" /></a>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="/images/table-arcade/Joypad-mount2.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount2.jpg"  alt="configurazione joypad2" /></a>
+            <a href="/images/table-arcade/Joypad-mount-2.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount-2.jpg"  alt="configurazione joypad2" /></a>
         </article>
     </div>
 </div>
