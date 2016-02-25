@@ -34,7 +34,7 @@ Una volta scelto il legno e dopo aver discusso sui punti da rivedere del progett
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="images/table-arcade/table-arcade-wood1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood1.jpg" alt=""table arcade realizzazione 2" /></a>
+            <a href="/images/table-arcade/table-arcade-wood1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-wood1.jpg" alt=""table arcade realizzazione 2" /></a>
             <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
@@ -63,7 +63,7 @@ Quindi abbiamo preso un trapano con punta fresatrice e abbiamo fatto questi bei 
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="images/table-arcade/table-arcade-buttons-hole2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole2.jpg"  alt="table arcade realizzazione buchi bottoni 2" /></a>
+            <a href="/images/table-arcade/table-arcade-buttons-hole2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole2.jpg"  alt="table arcade realizzazione buchi bottoni 2" /></a>
             <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
@@ -92,7 +92,7 @@ Il montaggio del tutto non ha richiesto molto tempo:
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="images/table-arcade/joypad-mount2.jpg" class="image fit thumb"><img src="/images/table-arcade/joypad-mount2.jpg"  alt="configurazione joypad2" /></a>
+            <a href="/images/table-arcade/joypad-mount2.jpg" class="image fit thumb"><img src="/images/table-arcade/joypad-mount2.jpg"  alt="configurazione joypad2" /></a>
             <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
@@ -108,7 +108,7 @@ Per la configurazione dell’arcade su raspberry ho optato per l’installazione
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="images/table-arcade/table-arcade-end2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end2.jpg"  alt="arcade table end 2" /></a>
+            <a href="/images/table-arcade/table-arcade-end2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end2.jpg"  alt="arcade table end 2" /></a>
             <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
@@ -125,7 +125,7 @@ Che dire..spero che vi sia stato di aiuto, e se avete qualche dubbio o avete bis
             <p>Table arcade realizzazione 1</p>
         </article>
         <article class="6u$ 12u$(xsmall) work-item">
-            <a href="images/table-arcade/table-arcade-in-action2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action2.jpg" alt="tavolino in azione 2" /></a>
+            <a href="/images/table-arcade/table-arcade-in-action2.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action2.jpg" alt="tavolino in azione 2" /></a>
             <p>>Table arcade realizzazione 2</p>
         </article>
     </div>
