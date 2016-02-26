@@ -7,7 +7,7 @@ Here we are, with this first article officially opens my blog! Today I decided t
 I went down in my Batcave and I started my laptop and I made a 3DSMAX schema with the first prototype of the table.
 
 <div id="gallery">
-    <h2>Progettazione 3D tavolino</h2>
+    <h2>Joypad settings</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/3d-project-arcade-table1.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table1.jpg" alt="table arcade 3d project 1" /></a>
@@ -21,7 +21,7 @@ I went down in my Batcave and I started my laptop and I made a 3DSMAX schema wit
 After these two pieces of 3D contemporary art in my mind was almost finished, so I slept on and the next day I went to a carpenter friend. Once we choose the wood and discussed the points to revise in the project, we started work immediately to build it
 
 <div id="gallery">
-    <h2>Realizzazione tavolino</h2>
+    <h2>Making of Table</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-wood.jpg" class="image fit thumb"><img  src="/images/table-arcade/table-arcade-wood.jpg" alt="table arcade realizzazione" /></a>
@@ -35,7 +35,7 @@ After these two pieces of 3D contemporary art in my mind was almost finished, so
 Now the Arcade Table starts to take a shape but It was just the beginning. At this point It was necessary to decide how to arrange the buttons on the console, I was surprised to discover on the internet a huge selection of these types of configuration:
 
 <div id="gallery">
-    <h2>Schema configurazione</h2>
+    <h2>Buttons Schema</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/button-arcade-configuration.png" class="image fit thumb"><img src="/images/table-arcade/button-arcade-configuration.png" alt="foto configurazione bottoni" /></a>
@@ -46,7 +46,7 @@ Now the Arcade Table starts to take a shape but It was just the beginning. At th
 So We took a drill and we made these beautiful holes that you see below:
 
 <div id="gallery">
-    <h2>Realizzazione buchi</h2>
+    <h2>Making of holes</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-buttons-hole.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-buttons-hole.jpg" alt="table arcade realizzazione buchi bottoni" /></a>
@@ -60,7 +60,7 @@ So We took a drill and we made these beautiful holes that you see below:
 But after realizing the console it was necessary to create a mechanism that would keep open horizontally the console when we using as arcade, and, to be honest, it was one of the most exhausting things to do, but in the end I succeeded!
 
 <div id="gallery">
-    <h2>Meccanismo console</h2>
+    <h2>Console Mechanism</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-find-mechanism.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-find-mechanism.jpg" alt="ricerca meccanismo" /></a>
@@ -71,7 +71,7 @@ But after realizing the console it was necessary to create a mechanism that woul
 Finally, we arrive at the electronics part (and gets more fun for me) after  bought on Ebay a raspberry pi and a joypad arcade kit I started to work. The assembly of all didn’t require much time:
 
 <div id="gallery">
-    <h2>Configurazione Joypad</h2>
+    <h2>Joypad settings</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/Joypad-mount-1.jpg" class="image fit thumb"><img src="/images/table-arcade/Joypad-mount-1.jpg" alt="configurazione joypad" /></a>
@@ -85,7 +85,7 @@ Finally, we arrive at the electronics part (and gets more fun for me) after  bou
 For the configuration of the arcade raspberry, I opted for the installation of this http://piplay.org/ distribution.
 
 <div id="gallery">
-    <h2>Tavolino finito</h2>
+    <h2>Table</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-end1.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-end1.jpg" alt="arcade table end 1"/></a>
@@ -99,7 +99,7 @@ For the configuration of the arcade raspberry, I opted for the installation of t
 Often as a developer is difficult to share with other people the pleasure of a finished project and it is for this reason that I often like to do analogic things. What add.. if you have any doubt or you need help, do not hesitate to contact me, I will be happy to help you in your self-built arcade cocktail table!
 
 <div id="gallery">
-    <h2>Tavolino in  azione</h2>
+    <h2>Arcade Table in action</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/table-arcade-in-action.jpg" class="image fit thumb"><img src="/images/table-arcade/table-arcade-in-action.jpg" alt="tavolino in azione" /></a>
