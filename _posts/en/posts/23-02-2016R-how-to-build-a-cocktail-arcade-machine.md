@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: it
+lang: en
 comments: true
 title: How to Build a Cocktail Arcade Machine
 ---
