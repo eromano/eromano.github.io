@@ -9,7 +9,7 @@
     </header>
 
     <section>
-      {{ post.content | strip_html | truncatewords:75}}<br>
+      {{ post.content | truncatewords:150}}<br>
       <ul class="actions">
         <li><a href="{{ post.url }}" class="button">Read More</a></li>
       </ul>
