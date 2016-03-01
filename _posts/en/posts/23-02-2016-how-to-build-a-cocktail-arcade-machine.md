@@ -3,8 +3,8 @@ layout: post
 comments: true
 title: How to Build a Cocktail Arcade Machine
 ---
-Here we are, with this first article officially opens my blog! Today I decided to share with you how I realized my arcade cocktail table. It all started with ​​my brother idea He saw some very nice online arcade tables but the cost was really outrageous, so I said CHALLENGE ACCEPTED.. I do it by myself!
-I went down in my Batcave and I started my laptop and I made a 3DSMAX schema with the first prototype of the table.
+Here we are, my blog officially opens today! Today, I have decided to share with you how I realized my arcade cocktail table. It all started with ​​my brother's idea. He saw some very nice online arcade tables but the cost was really excessive, so I said CHALLENGE ACCEPTED.. I'll do It by myself!
+I went down in my Batcave and I started up my laptop and I made a 3DSMAX schema with the first prototype of the table.
 
 <div id="gallery">
     <h2>Joypad settings</h2>
@@ -18,7 +18,7 @@ I went down in my Batcave and I started my laptop and I made a 3DSMAX schema wit
     </div>
 </div>
 
-After these two pieces of 3D contemporary art in my mind was almost finished, so I slept on and the next day I went to a carpenter friend. Once we choose the wood and discussed the points to revise in the project, we started work immediately to build it
+After completing these two pieces of 3D contemporary art I wrongly thought that the project was completed but in fact, It was just the beginning, so I slept on It and the next day I went to a carpenter friend. Once we choose the wood and discussed the points to revise in the project, we started work immediately to build it
 
 <div id="gallery">
     <h2>Making of Table</h2>
@@ -32,7 +32,7 @@ After these two pieces of 3D contemporary art in my mind was almost finished, so
     </div>
 </div>
 
-Now the Arcade Table starts to take a shape but It was just the beginning. At this point It was necessary to decide how to arrange the buttons on the console, I was surprised to discover on the internet a huge selection of these types of configuration:
+At this point, It was necessary to decide how to arrange the buttons on the console. I was surprised to discover a huge selection of these types of configurations on internet :
 
 <div id="gallery">
     <h2>Buttons Schema</h2>
