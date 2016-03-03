@@ -7,7 +7,7 @@ Here we are, my blog officially opens today! Today, I have decided to share with
 I went down in my Batcave and I started up my laptop and I made a 3DSMAX schema with the first prototype of the table.
 
 <div id="gallery">
-    <h2>Joypad settings</h2>
+    <h2>3D Project</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/table-arcade/3d-project-arcade-table1.jpg" class="image fit thumb"><img src="/images/table-arcade/3d-project-arcade-table1.jpg" alt="table arcade 3d project 1" /></a>
