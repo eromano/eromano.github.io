@@ -57,7 +57,7 @@ So We took a drill and we made these beautiful holes that you see below:
     </div>
 </div>
 
-But after realizing the console it was necessary to create a mechanism that would keep open horizontally the console when we using as arcade, and, to be honest, it was one of the most exhausting things to do, but in the end I succeeded!
+But after realizing the console it was necessary to create a mechanism that would keep open horizontally the console when we using as arcade and to be honest It was one of the most exhausting things to do, but in the end I succeeded!
 
 <div id="gallery">
     <h2>Console Mechanism</h2>
@@ -68,7 +68,7 @@ But after realizing the console it was necessary to create a mechanism that woul
     </div>
 </div>
 
-Finally, we arrive at the electronics part (and gets more fun for me) after  bought on Ebay a raspberry pi and a joypad arcade kit I started to work. The assembly of all didn’t require much time:
+Finally, We arrive at the electronics part (That's where it gets interesting) after  bought on Ebay a raspberry pi and a joypad arcade kit I started to work to the electronic. The assembly of all the parts didn’t require much time:
 
 <div id="gallery">
     <h2>Joypad settings</h2>
@@ -96,7 +96,7 @@ For the configuration of the arcade raspberry, I opted for the installation of t
     </div>
 </div>
 
-Often as a developer is difficult to share with other people the pleasure of a finished project and it is for this reason that I often like to do analogic things. What add.. if you have any doubt or you need help, do not hesitate to contact me, I will be happy to help you in your self-built arcade cocktail table!
+Often as a developer is difficult to share with other people the pleasure of a finished project and It's for this reason that I often like to do analogic things. What add.. if you have any doubt or you need help, do not hesitate to contact me, I will be happy to help you in your self-build arcade cocktail table!
 
 <div id="gallery">
     <h2>Arcade Table in action</h2>
