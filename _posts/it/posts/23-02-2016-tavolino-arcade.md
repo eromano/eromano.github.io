@@ -2,6 +2,7 @@
 layout: post
 lang: it
 comments: true
+truncate: 150
 title: Tavolino Arcade
 ---
 Eccoci qua, con questo primo articolo si apre ufficialmente il mio blog!

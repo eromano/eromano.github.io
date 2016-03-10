@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+truncate: 150
 title: How to Build a Cocktail Arcade Machine
 ---
 Here we are, my blog officially opens today! Today, I have decided to share with you how I realized my arcade cocktail table. It all started with ​​my brother's idea. He saw some very nice online arcade tables but the cost was really excessive, so I said CHALLENGE ACCEPTED.. I'll do It by myself!
