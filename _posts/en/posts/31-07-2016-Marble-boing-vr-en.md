@@ -5,9 +5,9 @@ truncate: 150
 title: Marble boing vr
 ---
 
-As well as in the 90's also in the last time he felt so much talk about Virtual Reality. Many are the
-  devices for sale on the market such as HTC Vive, Oculus Rift, many others  will be soon released PlayStation VR.
-  Another way to experience the virtual reality without spending a fortune can be the headset where you simply fit your smartphone inside to turn it into a 3D viewer. So the first step to realize my first 3D game 'was to buy an inexpensive 3D headset for mobile phones such as the one you see below.
+In the '90s' we thought that the Virtual reality was the last frontier but after a while, it's disappeared , nowdays the VR is back to stay . Many are the
+  devices for sale on the market such as HTC Vive, Oculus Rift, many others  will be soon released PlayStation VR.
+  Another way to experience the virtual reality without spending a fortune can be the headset where you simply fit your smartphone inside to turn it into a 3D viewer. So the first step to realizing my first 3D game 'was to buy an inexpensive 3D headset for mobile phones such as the one you see below.
 
 <div id="gallery">
     <h2>Visore 3D</h2>
@@ -21,11 +21,10 @@ As well as in the 90's also in the last time he felt so much talk about Virtual 
         </div>
 </div>
 
-After I bought on ebay for jsut 15 £ my new 3D viewer, was arrived the most difficult time,
-  or find a game to be carried out. After sleepless nights and several beers drunk to increase my creativity level,
-   I decided trivially to make a porting of an old game in VR. Marble Boing 3D which you can see some screenshots below,
-     I decided will be evolved in <a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr"> Marble boing VR </a>.
-     In short, not a 'stupendous undertaking but a simple porting to understand the basic concepts of VR keep it simple programming.
+Once I bought on eBay for just 15 £ my new 3D viewer, it was time to start making the game. After sleepless nights and several beers to increase my creativity level,
+   I decided trivially to make a porting of an old game in VR. Marble Boing 3D which you can see some screenshots below,
+     I decided to evolve it in <a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr"> Marble boing VR </a>.
+     In short, not a 'stupendous undertaking but a simple porting to understand the basic concepts of VR . As usual "keep it simple!!".
 
 <div id="gallery">
     <h2>Marble boing</h2>
@@ -39,9 +38,9 @@ After I bought on ebay for jsut 15 £ my new 3D viewer, was arrived the most dif
     </div>
 </div>
 
-To achieve Marble boing VR I used <a href="https://unity3d.com/"> Unity </a> a quite famous game engine that you can use to create games in C # or JavaScript.
-  If you want to learn how to use it you can find to this address some <a href="https://unity3d.com/learn"> interesting tutorial </a>.
-  If like me you are already familiar with this game engine you can find the following interesting addresses snippets to make a VR game:
+To realize Marble boing VR I used <a href="https://unity3d.com/"> Unity </a> a quite famous game engine that you can use to make games in C # or JavaScript.
+  If you want to learn how to use it you can find here some <a href="https://unity3d.com/learn"> interesting tutorial </a>.
+  If like me you already are familiar with this game engine you could find the following snippets relative a VR Game interesting:
 
 * Google VR SDK for Unity <a href="https://developers.google.com/vr/unity/"> here </a>
 * Auto Walk script <a href="https://github.com/JuppOtto/Google-Cardboard/blob/master/Autowalk.cs"> here </a>
@@ -62,10 +61,10 @@ At this point, I was armed with glue and duct tape plus a dash of inventiveness 
 
 * The movement of the gamer's head must be consistent with that in the 3D world to not cause nausea (Vestibular mismatch).
 * There are not many users currently interested in this kind of app.
-* It 'hard to find advertising systems compatible with the VR game then in turn it is complicated to make the game profitable.
+* It 'hard to find advertising systems compatible with the VR game then, in turn, it is complicated to make the game profitable.
 
 
-Unfortunately at the time the game does not have many downloads and perhaps the pay to play formula will is not helping.
+Unfortunately, at the time the game does not have many downloads and perhaps the pay to play formula will is not helping.
 
 <div id="gallery">
     <h2>Screenshot game</h2>
