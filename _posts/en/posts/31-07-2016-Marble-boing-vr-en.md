@@ -5,6 +5,8 @@ truncate: 150
 title: Marble boing vr
 ---
 
+<h1><a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr">Link Game</a></h1>
+
 In the '90s' we thought that the Virtual reality was the last frontier but after a while, it's disappeared , nowadays the VR is back to stay . Many are the
   devices for sale on the market such as HTC Vive, Oculus Rift and many others will be soon released as PlayStation VR.
   Another way to experience the virtual reality without spending a fortune it’s using an headset compatible with your smartphone
@@ -66,6 +68,8 @@ At this point, I was armed with glue and duct tape plus a dash of inventiveness 
 
 
 Unfortunately, at the time the game does not have many downloads and perhaps the pay to play formula will is not helping.
+
+<h1><a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr">Link Game</a></h1>
 
 <div id="gallery">
     <h2>Screenshot game</h2>
