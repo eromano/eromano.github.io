@@ -5,9 +5,10 @@ truncate: 150
 title: Marble boing vr
 ---
 
-In the '90s' we thought that the Virtual reality was the last frontier but after a while, it's disappeared , nowdays the VR is back to stay . Many are the
-  devices for sale on the market such as HTC Vive, Oculus Rift, many others  will be soon released PlayStation VR.
-  Another way to experience the virtual reality without spending a fortune can be the headset where you simply fit your smartphone inside to turn it into a 3D viewer. So the first step to realizing my first 3D game 'was to buy an inexpensive 3D headset for mobile phones such as the one you see below.
+In the '90s' we thought that the Virtual reality was the last frontier but after a while, it's disappeared , nowadays the VR is back to stay . Many are the
+  devices for sale on the market such as HTC Vive, Oculus Rift and many others will be soon released as PlayStation VR.
+  Another way to experience the virtual reality without spending a fortune it’s using an headset compatible with your smartphone
+  So the first step to realise my first 3D game was to buy a cheap 3D headset for mobile phones such as the one you see below.
 
 <div id="gallery">
     <h2>Visore 3D</h2>
