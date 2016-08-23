@@ -2,14 +2,14 @@
 layout: post
 comments: true
 truncate: 150
-title: Marble boing vr
+title: Marble boing VR
 ---
 
 <h1><a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr">Link Game</a></h1>
 
-In the '90s' we thought that the Virtual reality was the last frontier but after a while, it's disappeared , nowadays the VR is back to stay . Many are the
-  devices for sale on the market such as HTC Vive, Oculus Rift and many others will be soon released as PlayStation VR.
-  Another way to experience the virtual reality without spending a fortune it’s using an headset compatible with your smartphone
+In the '90s we thought that Virtual reality was the last frontier but after a while, it disappeared but now VR is back to stay! There are many
+  devices for sale on the market such as HTC Vive, Oculus Rift and many others will be released soon such as PlayStation VR.
+  Another way to experience virtual reality without spending a fortune is by using a headset which is compatible with your smartphone.
   So the first step to realise my first 3D game was to buy a cheap 3D headset for mobile phones such as the one you see below.
 
 <div id="gallery">
@@ -24,11 +24,10 @@ In the '90s' we thought that the Virtual reality was the last frontier but after
         </div>
 </div>
 
-Once I bought on eBay for just 15 £ my new 3D viewer, it was time to start making the game. After sleepless nights and several beers to increase my creativity level,
-   I decided trivially to make a porting of an old game in VR. Marble Boing 3D which you can see some screenshots below,
-     I decided to evolve it in <a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr"> Marble boing VR </a>.
-     In short, not a 'stupendous undertaking but a simple porting to understand the basic concepts of VR . As usual "keep it simple!!".
-
+Once I bought my new 3D viewer on eBay for just £15, it was time to start making the game. After sleepless nights and several beers to increase my creativity level,
+   I decided to make a simple porting of an old game in VR. I evolved Marble Boing 3D, which you can see in some screenshots below,
+     in <a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr"> Marble boing VR </a>.
+     In short, not a stupendous undertaking but a simple porting to understand the basic concepts of VR. As usual, "keep it simple!!".
 <div id="gallery">
     <h2>Marble boing</h2>
     <div class="row">
@@ -41,9 +40,9 @@ Once I bought on eBay for just 15 £ my new 3D viewer, it was time to start maki
     </div>
 </div>
 
-To realize Marble boing VR I used <a href="https://unity3d.com/"> Unity </a> a quite famous game engine that you can use to make games in C # or JavaScript.
-  If you want to learn how to use it you can find here some <a href="https://unity3d.com/learn"> interesting tutorial </a>.
-  If like me you already are familiar with this game engine you could find the following snippets relative a VR Game interesting:
+To realize Marble Boing VR I used <a href="https://unity3d.com/"> Unity </a>, which is quite a famous game engine that you can use to make games in C # or JavaScript.
+  If you want to learn how to use it, you can find some <a href="https://unity3d.com/learn"> interesting tutorial here</a>.
+  If like me, you already are familiar with this game engine you could find the following snippets relating to VR games interesting:
 
 * Google VR SDK for Unity <a href="https://developers.google.com/vr/unity/"> here </a>
 * Auto Walk script <a href="https://github.com/JuppOtto/Google-Cardboard/blob/master/Autowalk.cs"> here </a>
@@ -60,19 +59,19 @@ To realize Marble boing VR I used <a href="https://unity3d.com/"> Unity </a> a q
     </div>
 </div>
 
-At this point, I was armed with glue and duct tape plus a dash of inventiveness and I realized my first VR game from which I learned many new things as:
+At this point, I was armed with glue and duct tape plus a dash of inventiveness and I created my first VR game from which I learned many new things such as:
 
 * The movement of the gamer's head must be consistent with that in the 3D world to not cause nausea (Vestibular mismatch).
 * There are not many users currently interested in this kind of app.
-* It 'hard to find advertising systems compatible with the VR game then, in turn, it is complicated to make the game profitable.
+* It's hard to find advertising systems compatible with the VR game so it's complicated to make the game profitable.
 
-
-Unfortunately, at the time the game does not have many downloads and perhaps the pay to play formula will is not helping.
+Unfortunately, at this time, the game doesn't have many downloads and perhaps the pay to play formula isn't helping.
+So I decided that until the advertising systems get better, I'll leave the app free to download.
 
 <h1><a href="https://play.google.com/store/apps/details?id=com.gem.marblevirtualvr">Link Game</a></h1>
 
 <div id="gallery">
-    <h2>Screenshot game</h2>
+    <h2>Game screenshots</h2>
     <div class="row">
         <article class="6u 12u$(xsmall) work-item">
             <a href="/images/marble-boing/1024-1.png" class="image fit thumb"><img src="/images/marble-boing/1024-1.png" alt="screenshot 1" /></a>
