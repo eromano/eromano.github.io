@@ -40,12 +40,12 @@
                 <input type="checkbox" id="check1" checked>
                 <label for="check1"></label>
             </div>
-            {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
+
+            {% assign posts=site.posts | where:"title", page.title | sort: 'lang' %}
             <script>
                 (function () {
-                    var linkIta = '{{posts[0].url}}',
-                     linkEng = '{{posts[1].url}}',
-                     origin = $(location)[0].origin,
+                    var linkIta = '{{ posts[0].url | prepend: site.baseurl }}',
+                     linkEng = '{{ posts[1].url | prepend: site.baseurl }}',
                      currentLang = '{{page.lang}}';
 
                     if(currentLang === 'en'){
@@ -56,9 +56,9 @@
 
                     $('.flag-switch').change(function () {
                         if ($('#check1').is(':checked')) {
-                            $(location).attr('href', origin + linkIta);
+                            $(location).attr('href', linkIta);
                         } else {
-                            $(location).attr('href', origin + linkEng);
+                            $(location).attr('href',  linkEng);
                         }
                     });
 

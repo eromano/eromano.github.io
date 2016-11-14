@@ -3,7 +3,7 @@ layout: post
 lang: it
 comments: true
 truncate: 150
-title: Tavolino Arcade
+title: How to Build a Cocktail Arcade Machine
 ---
 Eccoci qua, con questo primo articolo si apre ufficialmente il mio blog!
 Oggi ho deciso di condividere con voi la spiegazione di come sono riuscito a realizzare da solo un cocktail table arcade.
