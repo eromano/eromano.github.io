@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-truncate: 150
+truncate: 130
 title: Angular 2 3D Viewer
 ---
 Angular2 during the last 2 years has become more important in my life as a developer, fortunately from the sufferings of the beta versions to the latest final release, the framework has started to consolidate and give less trouble and more satisfaction.
